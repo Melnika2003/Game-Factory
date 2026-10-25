@@ -12,7 +12,7 @@ LLM здесь означает большую языковую модель. Е
 
 Здесь опубликован технический кейс закрытого проекта: описание, схемы, реальные снимки интерфейса и презентация.
 
-[Презентация PDF](presentation/Game-Factory-v4.pdf) · [Редактируемая презентация](presentation/Game-Factory-v4.pptx) · [Архитектура](docs/ARCHITECTURE.md) · [Алгоритмы](docs/ALGORITHMS.md) · [Проверки и методика](docs/VALIDATION.md)
+[Презентация PDF](presentation/Game-Factory-v4.pdf) · [Архитектура](docs/ARCHITECTURE.md) · [Алгоритмы](docs/ALGORITHMS.md) · [Проверки и методика](docs/VALIDATION.md)
 
 ## Приложение и полученные игры
 
